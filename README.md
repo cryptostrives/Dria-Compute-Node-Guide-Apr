@@ -37,6 +37,11 @@ Succesfull logs Should Looks Like-👇
 
 ![image](https://github.com/user-attachments/assets/6b96a558-416c-4267-ac6e-4e2a3b202e9c)
 
+# Fill This Form to Get Role in Discord👇
+
+https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
+
+
 👉 **Join TG for more Updates:** https://telegram.me/cryptogg
 
 Thank U❤️
