@@ -31,7 +31,7 @@ dkn-compute-launcher referrals
 Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
 
  ```
- 15Gu6i0tObJc5yPTp4Vd
+ mDpcDrEnmNsugxiuBvzC
 ```
 
 Successfull Output Should Looks Like- ![image](https://github.com/user-attachments/assets/7d75f1c7-178d-4dc0-bc9e-a54f8657fbb9) Now u can Go-Back and start ur node!
