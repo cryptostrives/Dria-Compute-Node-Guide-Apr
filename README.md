@@ -25,7 +25,7 @@ Linux / MacOS
 
 🙌 Run - 
 ```
-dkn-compute-launcher referrals
+sudo dkn-compute-launcher referrals
 ``` 
 
 Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
@@ -42,7 +42,7 @@ Successfull Output Should Looks Like- ![image](https://github.com/user-attachmen
 This will promt u to enter your evm Private keys (without 0x) and Models!
 
 ```
-dkn-compute-launcher start
+sudo dkn-compute-launcher start
 ```
 
 Succesfull logs Should Looks Like-👇
